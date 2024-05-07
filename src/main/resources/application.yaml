@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: xprice
+  profiles:
+    active: h2
+
+server:
+  error:
+    whitelabel:
+      enabled: false
